@@ -3,8 +3,8 @@
   "short_name": "TDPWA",
   "description": "Ce TD est vraiment trop bien",
   
-  "scope": "/if26-pwa/",
-  "start_url": "/if26-pwa/",
+  "scope": "/IF26-PWA/",
+  "start_url": "/IF26-PWA/",
   
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -13,7 +13,7 @@
   
   "icons": [
     {
-      "src": "/if26-pwa/img/icon.png",
+      "src": "/IF26-PWA/img/icon.png",
       "type": "image/png",
       "sizes": "700x700"
     }
