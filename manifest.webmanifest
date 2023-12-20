@@ -1,0 +1,21 @@
+{
+  "name": "Le super TD PWA",
+  "short_name": "TDPWA",
+  "description": "Ce TD est vraiment trop bien",
+  
+  "scope": "/if26-pwa/",
+  "start_url": "/if26-pwa/",
+  
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  
+  "display": "standalone",
+  
+  "icons": [
+    {
+      "src": "/if26-pwa/img/icon.png",
+      "type": "image/png",
+      "sizes": "700x700"
+    }
+  ]
+}
